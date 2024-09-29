@@ -1,0 +1,98 @@
+commit e820dddc7d22d8633f269eb5b6b09126b9208c47
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Sat Sep 28 12:46:01 2024 -0500
+
+    Agregando 2 párrafos.
+
+commit 7633f50e83365396a14c6d68e39be0e656dc134c
+Merge: dcfe876 2f01f33
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Sat Sep 28 12:43:03 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y el ranking.
+
+commit dcfe876e53fc1ca369055831134daff9b881bca2
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Sat Sep 28 12:23:51 2024 -0500
+
+    Agregando estaciones y rankeandolas
+
+commit 2f01f3360b47460432841d8e4f1bc58caf7a9257
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Sat Sep 28 12:23:51 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 0874c9159893c35002148236486d4d5fbc47f88a
+Merge: 3b0b241 14fbb98
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Thu Sep 26 16:38:57 2024 -0500
+
+    Resolviendo conflictos entre las ramas html y main de forma manual
+
+commit 14fbb98fec3c9581304552c5d8348e89c358eba6
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Thu Sep 26 16:31:52 2024 -0500
+
+    Agregando index.js a la rama html
+
+commit 3b0b241186b4ca64fe38a8a5afdaac03693cf34d
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Thu Sep 26 16:28:42 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 3a4e64ae9ccf16cfdd3abffb9cac9a1a3cb2e653
+Merge: 856987c ce6bc6a
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Thu Sep 26 16:13:33 2024 -0500
+
+    Merge branch 'js'
+
+commit ce6bc6aea8e641310d2c1ee2a3cb6c90f7200265
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 22:09:45 2024 -0500
+
+    Creando index.js
+
+commit 856987c6879d8606a74c53111011dcb0b75fc2e7
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 22:04:33 2024 -0500
+
+    Creando styles.css
+
+commit 16ec5b579108c30d570fb6e46a9c4489d47f9915
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 22:00:22 2024 -0500
+
+    Creando archivo index.html
+
+commit da7a59899d73db27d7bbe0315e9f38ec7a1305fd
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 18:24:46 2024 -0500
+
+    Ignorando archivos .exe
+
+commit a849cffde73977544e1737e83a89506ade4008d9
+Author: lumaxiviba <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 16:45:13 2024 -0500
+
+    Creando licencia del repositorio.
+
+commit b992d9cc2d084f69f121abf337f58f5ddac20129
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 16:38:37 2024 -0500
+
+    Agregado más contenido al README
+
+commit 2fc08c201f695cc5f154e0ed2eac0d522db2205e
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 16:34:10 2024 -0500
+
+    Agregando contenido al README
+
+commit f9ffd7cfae37eb54da83f2b35a7dc5a616aa6c8c
+Author: Lucciano Maximo <luccianobrzl@gmail.com>
+Date:   Tue Sep 24 16:30:55 2024 -0500
+
+    Primer commit :3
